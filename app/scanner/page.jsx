@@ -97,7 +97,7 @@ export default function Scanner() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-10 text-center space-y-6 text-white">
-      <h1 className="text-4xl font-bold text-emerald-400">AI Nutrition Scanner</h1>
+      <h1 className="text-4xl font-bold text-green-400">AI Waste Scanner</h1>
 
       {/* Drop Zone */}
       <div

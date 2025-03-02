@@ -27,9 +27,9 @@ const StyledWrapper = styled.div`
     justify-content: center;
     align-items: center;
     position: relative;
-    background: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    background: linear-gradient(163deg, #34d399 0%, #65a30d 100%);
     background-size: 300% 300%;
-    padding: 2px; /* Creates a thin outline effect */
+    padding: 2px;
   }
 
   .card2 {
@@ -50,7 +50,7 @@ const StyledWrapper = styled.div`
     transform: scale(1.02);
     background-size: 200% 200%;
     background-position: center;
-    box-shadow: 0px 0px 20px 2px rgba(0, 255, 117, 0.3);
+    box-shadow: 0px 0px 20px 10px #14532d;
   }
 
   .content {

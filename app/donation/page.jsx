@@ -142,7 +142,7 @@ export default function DonationPage() {
 
   return (
     <div className="min-h-screen flex flex-col items-center p-6 text-white">
-      <h1 className="text-4xl font-bold mb-6 text-emerald-500">Food Donations</h1>
+      <h1 className="text-4xl font-bold mb-6 text-green-400">Scrap Donations</h1>
       <div className="bg-gray-800 p-6 rounded-lg shadow-md mb-6 w-full max-w-lg">
         <h2 className="text-2xl font-bold mb-4 text-emerald-500">Post Your Donation</h2>
         <input type="text" placeholder="Your Name" value={newDonation.name} 
