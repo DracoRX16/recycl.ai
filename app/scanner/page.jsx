@@ -61,9 +61,9 @@ export default function Scanner() {
                       5. A recyclability rating out of 100. (just the number no explanations)
                       Do not refer to the image refer to it as waste.
                       Format:
-                      1. Nutritional details: {details}
-                      2. Sustainability details: {details}
-                      3. Scarcity level: {details}
+                      Nutritional details: {details}
+                      Sustainability details: {details}
+                      Scarcity level: {details}
                       {Sustainability Rating}
                       {Recyclability Rating}`,
                     },
